@@ -6,7 +6,6 @@ Java and MQL4 Developer
 
 I've hade an experiment of 2 years Programming MQL4 I study Computer Science at Amirkabir University
 
-*   🌍  I'm based in Iran
 *   ✉️  You can contact me at [sheikholeslamimohammadreza@outlook.com](mailto:sheikholeslamimohammadreza@outlook.com)
 *   🧠  I'm learning Java### Skills 
 <p align="left">
