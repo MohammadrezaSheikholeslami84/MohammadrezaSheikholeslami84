@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java and MQL4 Developer
 -----------------------
 
-I've hade an experiment of 2 years Programming MQL4 I study Computer Science at Amirkabir University
+I've hade an experiment of 2 years Programming MQL4 
+I study Computer Science at Amirkabir University
 
 *   ✉️  You can contact me at [sheikholeslamimohammadreza@outlook.com](mailto:sheikholeslamimohammadreza@outlook.com)
 *   🧠  I'm learning Java### Skills 
