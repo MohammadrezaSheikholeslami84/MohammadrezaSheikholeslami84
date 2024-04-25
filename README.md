@@ -3,7 +3,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MohammadrezaSheikholeslami84/MohammadrezaSheikholeslami84/output/snake.svg" alt="Snake animation" />
 
 ###
 
