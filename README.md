@@ -1,8 +1,10 @@
+<br clear="both">
 
 <h1 align="left">Hey 👋 I'm Mohammadreza</h1>
 
 ###
 
+<img src="https://raw.githubusercontent.com/MohammadrezaSheikholeslami84/MohammadrezaSheikholeslami84/output/snake.svg" alt="Snake animation" />
 
 ###
 
