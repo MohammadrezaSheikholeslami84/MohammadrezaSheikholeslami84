@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohammadreza+Sheikholeslami+%F0%9F%91%8B;CS+Student+%7C+ML+%26+NLP+Enthusiast;Open-Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Mohammadreza+%F0%9F%91%8B;CS+Student+%7C+AI+%26+NLP+Enthusiast;Building+Open-Source+Projects;Exploring+Finance+%26+ML" alt="Typing SVG" />
 </p>
+
 
 
 ## 🧾 About Me  
