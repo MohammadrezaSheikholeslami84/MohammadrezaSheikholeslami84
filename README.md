@@ -139,12 +139,6 @@ Additionally, I have experience developing **trading bots with MQL4** and using 
 
 ---
 
-## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohammadrezaSheikholeslami84&theme=radical&border_radius=8" height="180em"/>
-</p>
-
----
 
 ## 📊 GitHub Activity Graph  
 <p align="center">
